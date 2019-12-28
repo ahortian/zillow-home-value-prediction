@@ -1,0 +1,6 @@
+*.pyc
+.DS_Store
+.env
+*/.DS_Store
+data/raw/*
+data/unzipped_data/*
